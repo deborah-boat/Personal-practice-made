@@ -1,0 +1,8 @@
+.todo-container {
+  display: flex;
+  flex-direction: row;
+}
+
+li {
+  padding: 10px;
+}
