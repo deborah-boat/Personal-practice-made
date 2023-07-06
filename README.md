@@ -1,6 +1,4 @@
 # HOME PRACTICE :
 
 LOGIN-FORM : 
-
-
-EMOJI.RATING :  
+ 
